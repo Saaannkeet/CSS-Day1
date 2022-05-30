@@ -1,0 +1,12 @@
+.border{
+       border:  solid 5px yellowgreen;
+       width:fit-content;
+    }
+
+.margin{
+    margin: 100px ;
+}
+.content{
+    padding: 50px;
+    font-size: 25px;
+}
